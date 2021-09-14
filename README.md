@@ -1,7 +1,69 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Copyright 2021, [Anibal Amoroso]
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [webpage/website] and associated documentation files, to deal in the [webpage/website] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [APP TYPE], and to permit persons to whom the [webpage/website] is furnished to do so, subject to the following conditions:
+# Anibal Amoroso's Project
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [webpage/website].
+Created my first microverse repository 
 
-THE [webpage/website] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [webpage/website] OR THE USE OR OTHER DEALINGS IN THE [webpage/website].
+![screenshot](./app_screenshot.png)
+
+Html Webpage with a title 
+
+## Built With
+
+- HTML
+- CSS
+- npm package
+
+## Live Demo
+
+[Live Demo Link](http://127.0.0.1:5500/index.html)
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Anibal Amoroso**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
